@@ -1,0 +1,17 @@
+├── 01_dasar/
+│   ├── hello_world.cpp
+│   ├── komentar.cpp
+│   └── input_output.cpp
+
+input 
+  #include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World C++!" << endl;
+    return 0;
+}
+
+output
+Hello World C++!
+
