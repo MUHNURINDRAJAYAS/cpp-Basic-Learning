@@ -1,10 +1,23 @@
-├── 01_dasar/
-│   ├── hello_world.cpp
-│   ├── komentar.cpp
-│   └── input_output.cpp
+# 📘 C++ Dasar
 
-input 
-  #include <iostream>
+Repository ini berisi materi **C++ dari dasar** untuk pemula, cocok untuk:
+- Mahasiswa
+- Newbie programmer
+- Linux & Termux user
+
+## 📂 Struktur Folder
+
+01_dasar/
+├── hello_world.cpp
+├── komentar.cpp
+└── input_output.cpp
+
+# input 
+
+## ▶️ Contoh Program Hello World
+### Source Code
+```cpp
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -12,6 +25,6 @@ int main() {
     return 0;
 }
 
-output
-Hello World C++!
+# ouputnya 
 
+Hello World C++!
