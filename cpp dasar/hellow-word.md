@@ -10,8 +10,25 @@ Cocok untuk:
 
 ## 📂 Struktur Folder
 
-```text
+```teks
 01_dasar/
 ├── hello_world.cpp
 ├── komentar.cpp
 └── input_output.cpp
+```
+
+##📥 Source Code (hello_world.cpp)
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello World C++!" << endl;
+    return 0;
+}
+```
+
+📤 Output
+
+```cpp
+Hello World C++!
