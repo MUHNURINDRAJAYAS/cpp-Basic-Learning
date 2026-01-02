@@ -1,4 +1,4 @@
-# 📘 C++ Dasar
+# hello word
 
 Repository ini berisi materi **C++ dari dasar** untuk pemula.  
 Cocok untuk:
