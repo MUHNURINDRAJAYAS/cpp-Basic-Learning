@@ -1,12 +1,5 @@
 ## Variabel & Tipe Data
 
-Repository ini berisi materi **C++** untuk pemula.  
-Cocok untuk:
-- 🎓 Mahasiswa
-- 🐧 Pengguna Linux & Termux
-
----
-
 ## 1. Pengertian Variabel
 
 Variabel adalah **tempat untuk menyimpan data** di dalam program. Setiap variabel memiliki:
