@@ -1,5 +1,3 @@
-# Materi C++ Dasar
-
 ## Array & String
 
 Materi ini membahas **Array** dan **String** sebagai struktur data dasar dalam C++. Materi disusun untuk **project GitHub pembelajaran C++ dari dasar** dan cocok untuk pemula Linux / Termux.
