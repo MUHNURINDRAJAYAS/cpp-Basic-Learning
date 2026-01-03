@@ -1,5 +1,3 @@
-# Materi C++ Dasar
-
 ## Percabangan (if, else, switch)
 
 Materi ini membahas **percabangan logika** dalam C++, yaitu cara program **mengambil keputusan** berdasarkan kondisi tertentu. Materi ini cocok untuk **project GitHub pembelajaran C++ dari dasar**.
