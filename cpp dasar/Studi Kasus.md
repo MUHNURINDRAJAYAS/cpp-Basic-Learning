@@ -1,5 +1,3 @@
-# Mini Project C++
-
 ## CLI Linux Tool – Aplikasi Manajemen Data Sederhana
 
 Mini project ini bertujuan melatih penggunaan **Variabel, Operator, Percabangan, Array, String, dan Function** dalam satu aplikasi **Command Line Interface (CLI)** di Linux.
