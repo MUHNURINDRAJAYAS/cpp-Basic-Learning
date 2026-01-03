@@ -174,14 +174,3 @@ int main() {
 
 ---
 
-## 10. Struktur Folder GitHub
-
-```
-C++-Dasar/
-├── 04-Array-String/
-│   └── array_string.cpp
-├── README.md
-```
-
----
-
