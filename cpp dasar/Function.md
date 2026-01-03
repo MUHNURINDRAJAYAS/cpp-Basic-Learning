@@ -1,5 +1,3 @@
-# Materi C++ Dasar
-
 ## Function (Fungsi)
 
 Materi ini membahas **Function (Fungsi)** dalam C++, yaitu cara memecah program menjadi bagian-bagian kecil agar **rapi, mudah dibaca, dan mudah dikembangkan**. Materi ini disusun untuk **project GitHub pembelajaran C++ dari dasar**.
