@@ -160,15 +160,5 @@ int main() {
 
 ---
 
-## 7. Struktur Folder GitHub (Rekomendasi)
-
-```
-C++-Dasar/
-├── 01-Variabel-TipeData/
-│   └── variabel.cpp
-├── README.md
-```
-
----
 
 
