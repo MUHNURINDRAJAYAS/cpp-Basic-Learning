@@ -1,5 +1,3 @@
-# Materi C++ Dasar
-
 ## Operator C++
 
 Materi ini merupakan lanjutan dari **Variabel & Tipe Data** dan disusun untuk **project GitHub pembelajaran C++ dari dasar**.
