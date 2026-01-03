@@ -1,5 +1,3 @@
-# Materi C++ Dasar
-
 ## Perulangan (Looping)
 
 Materi ini membahas **Perulangan (Looping)** dalam C++, yaitu teknik untuk **menjalankan kode secara berulang** selama kondisi tertentu terpenuhi. Materi ini disusun untuk **project GitHub pembelajaran C++ dari dasar**.
