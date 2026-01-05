@@ -1,4 +1,7 @@
 # cpp-Basic-Learning
+
+![Deskripsi](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*kYLN8FgczBfrWvELzHrRdQ.png)
+
 Belajar Bhasa Pemograman C++
 Repository ini berisi materi pembelajaran bahasa pemrograman C++ dari dasar
 hingga studi kasus sederhana.
